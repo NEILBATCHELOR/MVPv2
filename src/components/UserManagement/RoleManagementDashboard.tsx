@@ -1,6 +1,6 @@
 import React from "react";
-import { Card } from "./ui/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs";
+import { Card } from "../ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
 import UserTable from "./UserTable";
 import PermissionMatrix from "./PermissionMatrix";
 import MultiSigModal from "./MultiSigModal";
